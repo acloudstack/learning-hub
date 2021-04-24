@@ -20,13 +20,13 @@ marp: true
    1. Excercise - 5 problems - 1 hour
 8. Milestone Project - 1 Hour
 ---
-9.  Module - 1 hour
-   1. Excercise - 1 hour
-10. Milestone Project - introduce module - 30 minutes
+9.  Python Module - 30 minutes
+    1.  Excercise - 1 hour
+10. Milestone Project - add the concept of module - 30 minutes
 11. Classes & OOP - 1 hour
-    1.  Excercise - 1.5 hours
+    1.  Excercise - 2 hours
 12. Milestone Project - Add OOPs to the previous Project) - 1 hours
-13. Capstone Project - Take home - 1 hour
+13. Capstone Project - Take home Excercise - 1 hour
 ---
 14. Python Lambda vs Boto3 with Example - 1 Hour
 15. Boto3 -  AWS SDK for Python (VPC, EC2, S3) - 5 Hours
