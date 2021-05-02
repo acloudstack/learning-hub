@@ -40,7 +40,7 @@ marp: true
 
 ## Reference Books
 1. [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-2. Python and AWS Cookbook by Mitch Garnaat
+2. [Python and AWS Cookbook by Mitch Garnaat](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 
 ## Reference Websites
 1. https://www.learnpython.org/ 
