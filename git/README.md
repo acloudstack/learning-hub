@@ -5,6 +5,15 @@
 ### ![alt text](./git_wf.png "Sample git workflow")
 
 
+## Useful Commands
+    1. git status
+    2. git config user.email "acloudstack@gmail.com"
+    3. git config user.name "acloudstack"
+    4. git fetch
+    5. git merge
+    6. git pull ( git fetch + git merge)
+    7. git push
+
 ## ssh key
 
 Refer to this [Link](https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) for help creating ssh key.
@@ -68,4 +77,6 @@ Refer to this [Link](https://help.github.com/en/github/authenticating-to-github/
     https://superuser.com/questions/557903/clone-github-repository-without-account
     
 ## Helpful Links
-[A good read for some discussion around development process using git.](https://livablesoftware.com/development-process-in-github-basic-infographic/)
+1. [A good read for some discussion around development process using git.](https://livablesoftware.com/development-process-in-github-basic-infographic/)
+2. [Git Basics](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+3. [Git Basics](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
