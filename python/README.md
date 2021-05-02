@@ -39,7 +39,7 @@ marp: true
 ---
 
 ## Reference Books
-1. Learning Python by Mark Lutz
+1. [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
 2. Python and AWS Cookbook by Mitch Garnaat
 
 ## Reference Websites
