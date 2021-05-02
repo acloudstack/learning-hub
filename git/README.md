@@ -11,8 +11,10 @@
     3. git config user.name "acloudstack"
     4. git fetch
     5. git merge
-    6. git pull ( git fetch + git merge)
-    7. git push
+    6. git add
+    7. git commit
+    8. git pull ( git fetch + git merge)
+    9. git push
 
 ## Git Concepts
 1. Git branch 
