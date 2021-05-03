@@ -6,15 +6,16 @@
 
 
 ## Useful Commands
-    1. git status
-    2. git config user.email "acloudstack@gmail.com"
-    3. git config user.name "acloudstack"
-    4. git fetch
-    5. git merge
-    6. git add
-    7. git commit
-    8. git pull ( git fetch + git merge)
-    9. git push
+    1. git clone
+    2. git status
+    3. git config user.email "acloudstack@gmail.com"
+    4. git config user.name "acloudstack"
+    5. git fetch
+    6. git merge
+    7. git add
+    8. git commit
+    9. git pull ( git fetch + git merge)
+    10. git push
 
 ## Git Concepts
 1. Git branch 
