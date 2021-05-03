@@ -2,7 +2,7 @@
 # Git
 
 ## Sample git workflow
-### ![alt text](./git_wf.png "Sample git workflow")
+### ![alt text](git_wf.png "Sample git workflow")
 
 
 ## Useful Commands
