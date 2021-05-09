@@ -9,12 +9,12 @@ marp: true
    2. Basic Git Commands (branch, commit, fetch, merge, push) - These 5 commands cover 90% of daily activities
 3. Setup and Tools - 30 minutes
    1. Install Python - Windows, Linux, Mac
-      1. [Commands to install python3 in Amazon Linux 2 EC2](./dev_machine_installation_commands.md)
+      1. [Commands to install python3 in Amazon Linux 2 EC2](./data/dev_machine_installation_commands.md)
    2. Configure Jupyter Notebook
 4. Hello World in Python using own setup and tools - 30 minutes
 ---
 5. Python Types and Operation -  2 hours
-   1. Excercise - 5 Problems - 1 hour  
+   1. [Excercise - 1](./data/excercise-1.md)
 6. Flow Control In Python (if, elif, for, while, etc) - 2 hours
    1. Excercise - 5 problems - 1 hour
 7. Functions(Basics, Scopes, Argument) - 2 hour
