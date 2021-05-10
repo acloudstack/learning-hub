@@ -14,7 +14,15 @@ marp: true
 4. Hello World in Python using own setup and tools - 30 minutes
 ---
 5. Python Types and Operation -  2 hours
-   1. [Excercise - 1](./data/excercise-1.md)
+   1. Data Types in Python3
+      1. int, float
+      2. boolean
+      3. str 
+      4. list, tupple, range
+      5. dict
+      6. set, forzenset
+   2. [Excercise Set - 1](./data/excercise-1.md)
+   3. [List of Keywords in Python3](./data/python3-keywords.md)
 6. Flow Control In Python (if, elif, for, while, etc) - 2 hours
    1. Excercise - 5 problems - 1 hour
 7. Functions(Basics, Scopes, Argument) - 2 hour
@@ -41,7 +49,7 @@ marp: true
 
 ## Reference Books
 1. [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-2. [Python and AWS Cookbook by Mitch Garnaat](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
+2. [Python and AWS Cookbook by Mitch Garnaat](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-and-AWS-Cookbook.pdf)
 
 ## Reference Websites
 1. https://www.learnpython.org/ 
