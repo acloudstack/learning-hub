@@ -8,13 +8,13 @@
    
 5. What are the built-in premitive data types in Python?
    
-6. what is dynamic typing in python? Give an example.
+6. What is dynamic typing in python? Give an example.
    
 7. Write a short program to find out the average of a set of integers - 10, 45, 65
    
 8. Write a short program to find the area of a square with the length of its side is 4 cm
    
-9.  Write a short program to find the area of a rectangle with the length of both of its side 4 and 5 cm respectively.
+9. Write a short program to find the area of a rectangle with the length of both of its side 4 and 5 cm respectively.
 10. Write a short program to convert 100 kilometers to miles and print in the following format:
    
         100 kilometers in miles = 
