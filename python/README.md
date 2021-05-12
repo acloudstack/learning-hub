@@ -13,32 +13,45 @@ marp: true
    2. Configure Jupyter Notebook
 4. Hello World in Python using own setup and tools - 30 minutes
 ---
-5. Python Types and Operation -  2 hours
-   1. Data Types in Python3
+5. Python Types -  2 hours
+   1. Python Data Types:
       1. int, float
       2. boolean
       3. str 
       4. list, tupple, range
       5. dict
       6. set, forzenset
+---
+6. Python Operation -
+   1. Python Operators:
+      1. Arithmatic Operator:
+         1. \+ (Addition)
+         2. \- (Subtraction)
+         3. \* (Multiplication)
+         4. /  (Division)
+         5. // (Floor Division)
+         6. \** (modulus operator)
    2. [Excercise Set - 1](./data/excercise-1.md)
    3. [List of Keywords in Python3](./data/python3-keywords.md)
-6. Flow Control In Python (if, elif, for, while, etc) - 2 hours
-   1. Excercise - 5 problems - 1 hour
-7. Functions(Basics, Scopes, Argument) - 2 hour
-   1. Excercise - 5 problems - 1 hour
-8. Milestone Project - 1 Hour
+
 ---
-9.  Python Module - 30 minutes
+
+7. Flow Control In Python (if, elif, for, while, etc) - 2 hours
+   1. Excercise - 5 problems - 1 hour
+8. Functions(Basics, Scopes, Argument) - 2 hour
+   1. Excercise - 5 problems - 1 hour
+9. Milestone Project - 1 Hour
+---
+10.  Python Module - 30 minutes
     1.  Excercise - 1 hour
-10. Milestone Project - add the concept of module - 30 minutes
-11. Classes & OOP - 1 hour
+11. Milestone Project - add the concept of module - 30 minutes
+12. Classes & OOP - 1 hour
     1.  Excercise - 2 hours
-12. Milestone Project - Add OOPs to the previous Project) - 1 hours
-13. Capstone Project - Take home Excercise - 1 hour
+13. Milestone Project - Add OOPs to the previous Project) - 1 hours
+14. Capstone Project - Take home Excercise - 1 hour
 ---
-14. Python Lambda vs Boto3 with Example - 1 Hour
-15. Boto3 -  AWS SDK for Python (VPC, EC2, S3) - 5 Hours
+15. Python Lambda vs Boto3 with Example - 1 Hour
+16. Boto3 -  AWS SDK for Python (VPC, EC2, S3) - 5 Hours
     1.  Introduction
     2.  VPC
     3.  EC2
