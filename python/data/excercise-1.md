@@ -10,12 +10,12 @@
    
 6. what is dynamic typing in python? Give an example.
    
-7. Average of a set of numbers: Write a short program to find out the average of a set of integers - 10, 45, 65
+7. Write a short program to find out the average of a set of integers - 10, 45, 65
    
-8. Write a small program to find the area of a square with the length of its side is 4 cm
+8. Write a short program to find the area of a square with the length of its side is 4 cm
    
-9.  Write a small program to find the area of a rectangle with the length of both of its side 4 and 5 cm respectively.
-10. Write a small program to convert 100 kilometers to miles and print in the following format:
+9.  Write a short program to find the area of a rectangle with the length of both of its side 4 and 5 cm respectively.
+10. Write a short program to convert 100 kilometers to miles and print in the following format:
    
         100 kilometers in miles = 
         Assumption: 1 kilometer is equal to 0.62137 miles.
