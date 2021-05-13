@@ -31,22 +31,24 @@ marp: true
          4. /  (Division)
          5. // (Floor Division)
          6. \** (modulus operator)
-   2. [Excercise Set - 1](./data/excercise-1.md)
+   2. [Exercise Set - 1](./data/exercise-1.md)
    3. [List of Keywords in Python3](./data/python3-keywords.md)
 
 ---
 
-7. Flow Control In Python (if, elif, for, while, etc) - 2 hours
-   1. Excercise - 5 problems - 1 hour
-8. Functions(Basics, Scopes, Argument) - 2 hour
-   1. Excercise - 5 problems - 1 hour
-9. Milestone Project - 1 Hour
+7. Flow Control In Python (if, elif)
+8. Flow Control - Loop (for, while, do-while)
+   1. [Loop](data/loops.md) 
+   2. [Exercise - 2](data/exercise-2.md)
+9. Functions(Basics, Scopes, Argument) - 2 hour
+   1. Exercise - 5 problems - 1 hour
+10. Milestone Project - 1 Hour
 ---
 10.  Python Module - 30 minutes
-    1.  Excercise - 1 hour
+    1.  Exercise - 1 hour
 11. Milestone Project - add the concept of module - 30 minutes
 12. Classes & OOP - 1 hour
-    1.  Excercise - 2 hours
+    1.  Exercise - 2 hours
 13. Milestone Project - Add OOPs to the previous Project) - 1 hours
 14. Capstone Project - Take home Excercise - 1 hour
 ---
