@@ -6,8 +6,9 @@
        
 
 2. What are the different loops in Python?
-   1. for loop
+   1. for loop 
    
+      image from wikipedia:
       ![alt text right]( For-loop-diagram.png "for loop")
    
             for i in range(1, 6):  # gives i values from 1 to 5 inclusive (but not 6)
@@ -15,6 +16,8 @@
                 print(i)
 
    2. while
+   
+      image from wikipedia:
       ![While loop right]( while-loop.png "while loop")
 
             counter = 5                           # Set the value to 5 
