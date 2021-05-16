@@ -66,28 +66,29 @@
 
 9. Write a Python program to construct the following pattern, using a nested for loop:
 
-    * 
-    * * 
-    * * * 
-    * * * * 
-    * * * * *
+       * 
+       * * 
+       * * * 
+       * * * * 
+       * * * * *
     
 10. Write a Python program to construct the following pattern, using a nested for loop:
 
-    * 
-    * * 
-    * * * 
-    * * * * 
-    * * * * * 
-    * * * * 
-    * * * 
-    * * 
+        * 
+        * * 
+        * * * 
+        * * * * 
+        * * * * * 
+        * * * * 
+        * * * 
+        * * 
+        * 
 
 12. Write a Python program to add two numbers and display in the following patter - (Challenge Problem) 
 
-       4 4
-    +  6 6
-    -----    
-     1 1 0
+           4 4
+        +  6 6
+        --------    
+         1 1 0
 
 
