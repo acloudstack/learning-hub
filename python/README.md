@@ -23,14 +23,7 @@ marp: true
       6. set, forzenset
 ---
 6. Python Operation -
-   1. Python Operators:
-      1. Arithmatic Operator:
-         1. \+ (Addition)
-         2. \- (Subtraction)
-         3. \* (Multiplication)
-         4. /  (Division)
-         5. // (Floor Division)
-         6. \** (modulus operator)
+   1. [Python Operators](./data/operators.md)      
    2. [Exercise Set - 1](./data/exercise-1.md)
    3. [List of Keywords in Python3](./data/python3-keywords.md)
 
