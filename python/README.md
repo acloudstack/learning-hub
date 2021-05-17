@@ -17,7 +17,7 @@ marp: true
    4. **Flow Control:**
       1. **Sequential:** default mode
       2. **Selection:** used for decisions and branching (if, if-else, if-elif-else)
-      3. **Repetition:** used for repeating a piece of code multiple times (for, while) - [Loops](./data/loops.md) - [Exercise-2](/data/exercise-2.md)
+      3. **Repetition:** used for repeating a piece of code multiple times (for, while) - [Loops](./data/loops.md) - [Exercise-2](./data/exercise-2.md)
    5. **Collection:** list, tupple, dictionary, set
    6. **[Milestone Project](./data/milestone-project-1.md)**
   
