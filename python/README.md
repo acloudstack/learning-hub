@@ -2,62 +2,57 @@
 marp: true
 ---
 
-## Table of Contents (Loads of Hands-On and Live Coding)
-1. Introduction - 15 minutes
-2. Git Basics - 45 minutes
-   1. Every Student will create a GitHub acount and use it for Python class
-   2. Basic Git Commands (branch, commit, fetch, merge, push) - These 5 commands cover 90% of daily activities
-3. Setup and Tools - 30 minutes
-   1. Install Python - Windows, Linux, Mac
-      1. [Commands to install python3 in Amazon Linux 2 EC2](./data/dev_machine_installation_commands.md)
-   2. Configure Jupyter Notebook
-4. Hello World in Python using own setup and tools - 30 minutes
+1. **Introduction and Setup**
+   1. **What and Why Python** 
+   2. **[Git Basics:](./../git/README.md)** Create GitHub Account, Create Repository, Setup ssh key
+   3. **Git Commands:** branch, add, commit, push, fetch, merge
+   4. **Setup and Tools:** python3, visual studio code and python plugin
+   5. **Hello World in python3** 
+      
 ---
-5. Python Types -  2 hours
-   1. Python Data Types:
-      1. int, float
-      2. boolean
-      3. str 
-      4. list, tupple, range
-      5. dict
-      6. set, forzenset
+2. **Python Basics**
+   1. **Data Type:** int, float, boolean, str - [Exercise-1](./data/exercise-1.md)
+   2. **Function:** print, type, range, input
+   3. **Operations:** Arithmetic, Assignment
+   4. **Flow Control:**
+      1. **Sequential:** default mode
+      2. **Selection:** used for decisions and branching (if, if-else, if-elif-else)
+      3. **Repetition:** used for repeating a piece of code multiple times (for, while) - [Loops](./data/loops.md) - [Exercise-2](/data/exercise-2.md)
+   5. **Collection:** list, tupple, dictionary, set
+   6. **[Milestone Project](./data/milestone-project-1.md)**
+  
 ---
-6. Python Operation -
-   1. [Python Operators](./data/operators.md)      
-   2. [Exercise Set - 1](./data/exercise-1.md)
-   3. [List of Keywords in Python3](./data/python3-keywords.md)
-
+3. **Python Intermediate**
+   1. **Functions:** 
+   2. **Variable Scope and lifetime:** 
+   3. **The None Value:**
+   4. **File Input/Output:**
+   6. **Milestone Project:**
+  
 ---
-
-7. Flow Control In Python (if, elif)
-8. Flow Control - Loop (for, while, do-while)
-   1. [Loop](data/loops.md) 
-   2. [Exercise - 2](data/exercise-2.md)
-9. Functions(Basics, Scopes, Argument) - 2 hour
-   1. Exercise - 5 problems - 1 hour
-10. Milestone Project - 1 Hour
----
-10.  Python Module - 30 minutes
-    1.  Exercise - 1 hour
-11. Milestone Project - add the concept of module - 30 minutes
-12. Classes & OOP - 1 hour
-    1.  Exercise - 2 hours
-13. Milestone Project - Add OOPs to the previous Project) - 1 hours
-14. Capstone Project - Take home Excercise - 1 hour
----
-15. Python Lambda vs Boto3 with Example - 1 Hour
-16. Boto3 -  AWS SDK for Python (VPC, EC2, S3) - 5 Hours
-    1.  Introduction
-    2.  VPC
-    3.  EC2
-    4.  S3
-    5.  Monitor
-
+4. **AWS SDK for Python (Boto3)**
+   1. **Setup:** boto3
+   2. **VPC:** 
+   3. **S3:** 
+   4. **EC2:**
+   5. **Monitor:**
+  
 ---
 
-## Reference Books
-1. [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
-2. [Python and AWS Cookbook by Mitch Garnaat](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-and-AWS-Cookbook.pdf)
-
-## Reference Websites
-1. https://www.learnpython.org/ 
+5. **Python Advanced**
+   1. **n Dimensional Sequence:**
+   2. **Useful Modules:**
+   3. **Classes:**
+   4. **Object Oriented Programming:**
+   5. **Errors and Exceptions:** 
+   6. **Packaging and Testing:**
+   7. **Milestone Project:** 
+  
+---
+6. **Reference Books**
+   1. [Learning Python by Mark Lutz](https://cfm.ehu.es/ricardo/docs/python/Learning_Python.pdf)
+   2. [Python and AWS Cookbook by Mitch Garnaat](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-and-AWS-Cookbook.pdf)
+   
+7. **Reference Websites**
+   1. [LearnPython](https://www.learnpython.org/)
+   2. [RealPython](https://realpython.com/python-boto3-aws-s3/)

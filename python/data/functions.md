@@ -5,7 +5,10 @@ Functions covered so far ...
       
 2. type - returns the type of input argument
    
+3. input - first takes the input from the user and then evaluates the expression
 
-3. range - generates a series of numbers within a given range. The arguments can be start, stop, step
+4. range - generates a series of numbers within a given range. The arguments can be start, stop, step
+   
+5. 
 
     
