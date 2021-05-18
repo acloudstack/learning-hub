@@ -9,7 +9,7 @@
    1. for loop 
    
       image from wikipedia:
-      ![alt text right]( For-loop-diagram.png "for loop")
+      ![alt text right]( ./../assets/For-loop-diagram.png "for loop")
    
             for i in range(1, 6):  # gives i values from 1 to 5 inclusive (but not 6)
 
@@ -18,7 +18,7 @@
    2. while
    
       image from wikipedia:
-      ![While loop right]( while-loop.png "while loop")
+      ![While loop right]( ./../assets/while-loop.png "while loop")
 
             counter = 5                           # Set the value to 5 
             sum = 0                               # Set the value to 0
