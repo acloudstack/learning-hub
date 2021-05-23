@@ -18,7 +18,7 @@ marp: true
       1. **Sequential:** default mode
       2. **Selection:** used for decisions and branching ([if](./data/assets/if.vpd.png), [if-else](./data/assets/if_else.vpd.png), [if-elif-else](./data/assets/if_elif_else.vpd.png))
       3. **Repetition:** used for repeating a piece of code multiple times ([for](./data/assets/for.vpd.png), [while](./data/assets/while.vpd.png)) - [Exercise-2](./data/exercise-2.md)
-   5. **Collection:** list, tupple, dictionary, set
+   5. **Collection:** tupple, list, dictionary, set
    6. **[Milestone Project](./data/milestone-project-1.md)**
   
 ---
