@@ -11,7 +11,7 @@ marp: true
       
 ---
 2. **Python Basics**
-   1. **Data Type:** int, float, boolean, [str](./data/string.md) - [Exercise-1](./data/exercise-1.md)
+   1. **Data Type:** int, float, boolean, [str](./data/string.md) [Exercise-1](./data/exercise-1.md)
    2. **Function:** print, type, range, input
    3. **Operations:** Arithmetic, Assignment, Boolean, 
    4. **Flow Control:**
