@@ -1,12 +1,19 @@
 # tuple 
 * A tuple is a ordered sequence of elements. 
+  
 * Because tuples are immutable, their values cannot be modified. It is formatted as below.
+  
 * A tuple in Python is similar to a list. The difference between the two is that we cannot change the elements of a tuple once it is assigned whereas we can change the elements of a list.
+  
 * Just as lists are defined by having items(/elements/values) between square brackets [ ], a tuple is defined by having items(/elements/values) between brackets(/parentheses) ( ) separated by commas ','
+  
 * Create a tuple:
   * Empty tuple mytuple = ()
+  
   * tuple having integers: tuple_1 = (1, 2, 3)
+  
   * tuple having mixed items: tuple_2 = (1, 'Hello')
+  
   * Create a tuple having just one element
             tuple_with_one_element = (1,) or
 
@@ -15,9 +22,12 @@
 
             Output:
             (1,)
+
   * nested tuple: 
     * tuple_3 = (1, 'Hello', (1, 2, True))
+  
     * tuple_person = ('Joe', ('joe@example.com', '+1 123 456 7890))
+  
   * tuple packing and unpacking:
     * Packing: a tuple can also be defined as 
             tuple_4 = 1, 2, 3, 'Hello'
@@ -39,8 +49,9 @@
             3
             'Hello'
 
-* Access elements in a tupple:
+* Access elements in a tuple:
   1. Tuple is an order sequence
+   
   2. The items can be accessed using index. Index must be an integer and starts from 0
             tuple_0 = (1, 'Hello', (24, 'string1), [1, 2, 3])
             print(tuple_0[0])
@@ -55,7 +66,9 @@
             (24, 'string10)
             24
             [1,2,3]
+          
   3. Negative index, the last item is at index -1
+  
   4. Slice: We can access a range of items in a tuple
             tuple_1 = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
@@ -71,7 +84,7 @@
             tuple_1[-10:]
             Output: (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
-  5. Reverse tupple suing Slice notation:
+  5. Reverse tuple using Slice notation:
         tuple_1 = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
         reverse_tuple = tuple_1[::-1]
         print(reverse_tuple)
@@ -82,14 +95,18 @@
         Output: (9, 7, 5, 3, 1)
 
 * Number of items in a tuple: len()
+
 * Modifying a tuple:
+
 * Delete a tuple: del tuple_1
+
 * tuple Methods:
   * count
         tuple_1 = ('h', 'e', 'l', 'l', '0')
 
         print(my_tuple.count('h'))  # Output: 1
         print(my_tuple.index('l'))  # Output: 2
+
 * tuple operations:
   * membership test:
         tuple_1 = ('h', 'e', 'l', 'l', '0')

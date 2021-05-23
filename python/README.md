@@ -11,14 +11,14 @@ marp: true
       
 ---
 2. **Python Basics**
-   1. **Data Type:** int, float, boolean, str - [Exercise-1](./data/exercise-1.md)
+   1. **Data Type:** int, float, boolean, [str](./data/string.md) - [Exercise-1](./data/exercise-1.md)
    2. **Function:** print, type, range, input
    3. **Operations:** Arithmetic, Assignment, Boolean, 
    4. **Flow Control:**
       1. **Sequential:** default mode
       2. **Selection:** used for decisions and branching ([if](./data/assets/if.vpd.png), [if-else](./data/assets/if_else.vpd.png), [if-elif-else](./data/assets/if_elif_else.vpd.png))
       3. **Repetition:** used for repeating a piece of code multiple times ([for](./data/assets/for.vpd.png), [while](./data/assets/while.vpd.png)) - [Exercise-2](./data/exercise-2.md)
-   5. **Collection:** [tupple](./data/tuple.md), list, dictionary, set
+   5. **Collection:** [tupple](./data/tuple.md), [list](./data/list.md), dictionary, set
    6. **[Milestone Project](./data/milestone-project-1.md)**
   
 ---
