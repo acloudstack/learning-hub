@@ -56,4 +56,8 @@
     
         Example: if the input in 3, you have to calculate 3 + 33 + 333 = 369
         
-11. test
+11. Write a Python Function to collect alternate items from input list.
+        
+        Input: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+        Output: [0, 2, 4, 6, 8]
+    
