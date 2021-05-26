@@ -42,4 +42,18 @@
 
         Hint: traverse the list
 
-8. test
+8. WAPP to collect all pair combinations of two tuples.
+        
+        Input : test_tuple1 = (1, 2), test_tuple2 = (10, 20)
+        Output : [(1, 10), (1, 20), (2, 10), (2, 20), (10, 1), (10, 2), (20, 1), (20, 2)]
+
+9.  WAPP to remove negative elements in a list
+    
+        Input : test_list = [1, 4, 3, -8, -1]
+        Output : [1, 4, 3]
+
+10. WAPP that accepts an integer (n) and computes the value of n+nn+nnn.
+    
+        Example: if the input in 3, you have to calculate 3 + 33 + 333 = 369
+        
+11. test

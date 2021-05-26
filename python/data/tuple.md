@@ -29,7 +29,9 @@
     * tuple_person = ('Joe', ('joe@example.com', '+1 123 456 7890))
   
   * tuple packing and unpacking:
-    * Packing: a tuple can also be defined as 
+    * Packing: 
+  
+            a tuple can also be defined as 
             tuple_4 = 1, 2, 3, 'Hello'
             print(tuple_4) 
             
@@ -37,6 +39,7 @@
             (1, 2, 3, 'Hello') 
 
     * Unpacking: We can define a statement like this 
+  
             a, b, c, d = tuple_4
             print(a)
             print(a)
@@ -53,7 +56,8 @@
   1. Tuple is an order sequence
    
   2. The items can be accessed using index. Index must be an integer and starts from 0
-            tuple_0 = (1, 'Hello', (24, 'string1), [1, 2, 3])
+            
+            tuple_0 = (1, 'Hello', (24, 'string1'), [1, 2, 3])
             print(tuple_0[0])
             print(tuple_0[1])
             print(tuple_0[2])
@@ -70,6 +74,7 @@
   3. Negative index, the last item is at index -1
   
   4. Slice: We can access a range of items in a tuple
+  
             tuple_1 = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
             tuple_1[0:3]
@@ -85,6 +90,7 @@
             Output: (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
   5. Reverse tuple using Slice notation:
+   
         tuple_1 = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
         reverse_tuple = tuple_1[::-1]
         print(reverse_tuple)
