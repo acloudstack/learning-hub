@@ -42,9 +42,9 @@
   
             a, b, c, d = tuple_4
             print(a)
-            print(a)
-            print(a)
-            print(a)
+            print(b)
+            print(c)
+            print(d)
             
             Output:
             1

@@ -30,7 +30,7 @@
 
         Example: 'Hello' should be converted to ['H', 'e', 'l', 'l', 'o'] 
 
-        Hint: use the find function
+       
 
 6. Write a python program to print the following pattern
 
