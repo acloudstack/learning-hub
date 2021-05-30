@@ -23,3 +23,32 @@
         print(set2)
 
         Output: {1.0, (1, 2, 3), 'Hello', 'World'}
+
+* set cannot have duplicates
+
+* we can make set from a list
+
+* set cannot have mutable items
+  
+* create an empty set
+  
+        set3 = set()
+* methods:
+  * add
+  * update
+  * remove
+  * discard
+  * pop
+  * set operations
+    * union
+    * intersection
+    * difference
+  * clear
+  * copy
+  
+* In-built Functions
+  * len()
+  * min()
+  * max()
+  * sum()
+  * sorted()
