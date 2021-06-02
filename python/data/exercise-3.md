@@ -19,10 +19,9 @@
         Example: 'Hello' should be printed as:
 
         H - 1
-        e - 2
-        l - 3
-        l - 4
-        o - 5
+        e - 1
+        l - 2
+        o - 1
 
         Hint: use the find function
         
