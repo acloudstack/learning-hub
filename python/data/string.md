@@ -1,6 +1,6 @@
 # string
 
-* Create string
+* create string
 * access characters
 * string operations
   * concat two strings
@@ -10,12 +10,14 @@
   * escape characters
   * triple quotes ''' 
   * format() method
-* Build-in functions
-  * enum
+* build-in functions
+  * len()
+  * enumerate()
 * Common string methods:
-  * toupper()
-  * tolower()
+  * upper()
+  * lower()
   * find()
   * replace()
   * split()
   * join()
+  * count()
