@@ -78,17 +78,4 @@ def cashier_app():
                     cashier_selection = qty
                 cashier_selection = input(prompt_message_previous_screen_purchase)
 
-
-                
-
-                
-    
 cashier_app()
-
-#def display_selected_item(item_id):
-
-
-
-
-
-# print('Cashier has selected the option: ', cashier_selection)
